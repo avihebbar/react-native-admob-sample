@@ -1,0 +1,4 @@
+#Wed Jan 02 17:17:16 IST 2019
+base.0=/Users/avinash.sh/Workspace/AwesomeProject/android/app/build/intermediates/transforms/dexMerger/debug/54
+path.0=classes.dex
+renamed.0=classes.dex
